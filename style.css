@@ -1,0 +1,24 @@
+.photoWrapper {
+    text-align: center;
+}
+
+.photoWrapper img {
+    max-width: 100%;
+}
+
+.photoWrapper p {
+    text-align: justify;
+}
+
+.caption {
+    margin-bottom: 1em;
+}
+
+.header {
+    margin-bottom: 2em;
+}
+
+.headline {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
